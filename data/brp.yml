@@ -7,3 +7,132 @@ schemas:
       geheimhoudingPersoonsgegevens: false
       leeftijd: 36
       geslachtsaanduiding: V
+      naam:
+        geslachtsnaam: Moulin
+        voorletters: S.
+        voornamen: Suzanne
+        aanduidingNaamgebruik: E
+      geboorte:
+        datum:
+          dag: 12
+          datum: "1958-12-01"
+          jaar: 1989
+          maand: 5
+      ouders: 
+        - geslachtsaanduiding: V
+          naam: 
+            voornamen: Lisette
+            geslachtsnaam: Beamont
+          geboorte:
+            datum:
+              dag: 12
+              datum: "1956-12-01"
+              jaar: 1956
+              maand: 5
+            land:
+              code: 5002
+            plaats:
+              omschrijving: Clermont-Ferrand 
+          datumIngangFamilierechtelijkeBetrekking:
+            dag: 1
+            datum: "1989-05-03"
+            jaar: 1989
+            maand: 5 
+
+        - geslachtsaanduiding: M
+          naam: 
+            voornamen: Guillaume
+            geslachtsnaam: Moulin
+          geboorte:
+            datum:
+              dag: 3
+              datum: "1955-04-03"
+              jaar: 1955
+              maand: 4
+            land:
+              code: 5002
+            plaats:
+              omschrijving: Toulon 
+          datumIngangFamilierechtelijkeBetrekking:
+            dag: 1
+            datum: "1985-12-01"
+            jaar: 1985
+            maand: 12
+      nationaliteiten:
+        - datumIngangGeldigheid: 
+            dag: 05
+            datum: "2013-11-05"
+            jaar: 2013
+            maand: 11
+          nationaliteit:
+            code: 6030
+          redenOpname:
+            code: 301
+      partners:
+        - naam: 
+            voornamen: Jean Marie
+            geslachtsnaam: Beaudelaire
+          geslachtsaanduiding: M
+          geboorte:
+            datum:
+              dag: 1
+              datum: "1976-08-01"
+              jaar: 1976
+              maand: 8
+            land:
+              code: 5002
+            plaats:
+              omschrijving: Saint Amarin 
+          aangaanHuwelijkPartnerschap:
+            datum: 
+              dag: 1
+              datum: "2008-12-01"
+              jaar: 2008
+              maand: 12
+            land:
+              code: 5002
+            plaats:
+              omschrijving: Thann
+          soortVerbintenis: H
+      verblijfplaats:    
+        straat: Boterdiep
+        huisnummer: 31
+        postcode: 3077AW
+        woonplaats: Rotterdam
+        functieAdres: W
+        nummeraanduidingIdentificatie: 0599010000208579
+        datumVestigingInNederland:
+          dag: 2
+          datum: "2013-11-02"
+          jaar: 2013
+          maand: 11
+        land: 
+          code: 5002
+        gemeenteVanInschrijving:
+          code: 0599
+        datumInschrijvingInGemeente:
+          dag: 2
+          datum: "2013-11-02"
+          jaar: 2013
+          maand: 11
+        datumAanvangAdreshouding: 
+          dag: 8
+          datum: "2015-08-08"
+          jaar: 2015
+          maand: 8
+        datumIngangGeldigheid:
+          dag: 8
+          datum: "2015-08-08"
+          jaar: 2015
+          maand: 8
+
+        
+
+            
+
+
+          
+            
+
+      
+            
