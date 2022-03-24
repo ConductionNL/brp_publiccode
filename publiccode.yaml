@@ -1,0 +1,15 @@
+publiccodeYmlVersion: "0.1"
+
+name: brp
+url: "https://github.com/VNG-Realisatie/Haal-Centraal-BRP-bevragen"
+
+
+description:
+  nl:
+    shortDescription: "API voor het zoeken en raadplegen van actuele personen, partners, ouders en kinderen uit de basisregistratie personen (BRP), inclusief de registratie niet-ingezeten (RNI)."
+    documentation: 'https://redocly.github.io/redoc/?url=https://raw.githubusercontent.com/VNG-Realisatie/Haal-Centraal-BRP-bevragen/master/specificatie/openapi.yaml'
+    apiDocumentation: 'https://raw.githubusercontent.com/VNG-Realisatie/Haal-Centraal-BRP-bevragen/master/specificatie/openapi.yaml'
+  en:
+    shortDescription: "API for searching and consulting current persons, partners, parents and children from the basic registration of persons (BRP), including the registration non-resident (RNI)."
+    documentation: 'https://redocly.github.io/redoc/?url=https://raw.githubusercontent.com/VNG-Realisatie/Haal-Centraal-BRP-bevragen/master/specificatie/openapi.yaml'
+    apiDocumentation: 'https://raw.githubusercontent.com/VNG-Realisatie/Haal-Centraal-BRP-bevragen/master/specificatie/openapi.yaml'
