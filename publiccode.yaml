@@ -2,7 +2,18 @@ publiccodeYmlVersion: "0.1"
 
 name: "Bevragen Ingeschreven Personen (BRP) API"
 url: "https://github.com/VNG-Realisatie/Haal-Centraal-BRP-bevragen"
+releaseDate: "2020-09-01"
 
+softwareType: standalone/backend
+
+platforms:
+  - web
+  
+categories:
+  - collaboration
+  - it-development
+  
+developmentStatus: beta
 
 description:
   nl:
