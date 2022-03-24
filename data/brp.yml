@@ -19,7 +19,7 @@ schemas:
           jaar: 1989
           maand: 5
       ouders: 
-        - geslachtsaanduiding: V
+        - geslachtsaanduiding: vrouw
           naam: 
             voornamen: Lisette
             geslachtsnaam: Beamont
@@ -39,7 +39,7 @@ schemas:
             jaar: 1989
             maand: 5 
 
-        - geslachtsaanduiding: M
+        - geslachtsaanduiding: man
           naam: 
             voornamen: Guillaume
             geslachtsnaam: Moulin
@@ -72,7 +72,7 @@ schemas:
         - naam: 
             voornamen: Jean Marie
             geslachtsnaam: Beaudelaire
-          geslachtsaanduiding: M
+          geslachtsaanduiding: man
           geboorte:
             datum:
               dag: 1
@@ -99,7 +99,7 @@ schemas:
         huisnummer: 31
         postcode: 3077AW
         woonplaats: Rotterdam
-        functieAdres: W
+        functieAdres: woonadres
         nummeraanduidingIdentificatie: 0599010000208579
         datumVestigingInNederland:
           dag: 2
@@ -125,14 +125,6 @@ schemas:
           datum: "2015-08-08"
           jaar: 2015
           maand: 8
-
-        
-
-            
-
-
-          
-
       datumEersteInschrijvingGBA:
         dag: 02
         datum: "2013-11-02T00:00:00.000Z"
