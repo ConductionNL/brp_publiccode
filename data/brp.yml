@@ -11,7 +11,7 @@ schemas:
         geslachtsnaam: Moulin
         voorletters: S.
         voornamen: Suzanne
-        aanduidingNaamgebruik: E
+        aanduidingNaamgebruik: eigen
       geboorte:
         datum:
           dag: 12
@@ -30,7 +30,7 @@ schemas:
               jaar: 1956
               maand: 5
             land:
-              code: 5002
+              code: "5002"
             plaats:
               omschrijving: Clermont-Ferrand 
           datumIngangFamilierechtelijkeBetrekking:
@@ -65,9 +65,9 @@ schemas:
             jaar: 2013
             maand: 11
           nationaliteit:
-            code: 6030
+            code: "6030"
           redenOpname:
-            code: 301
+            code: "301"
       partners:
         - naam: 
             voornamen: Jean Marie
@@ -80,7 +80,7 @@ schemas:
               jaar: 1976
               maand: 8
             land:
-              code: 5002
+              code: "5002"
             plaats:
               omschrijving: Saint Amarin 
           aangaanHuwelijkPartnerschap:
@@ -90,7 +90,7 @@ schemas:
               jaar: 2008
               maand: 12
             land:
-              code: 5002
+              code: "5002"
             plaats:
               omschrijving: Thann
           soortVerbintenis: H
