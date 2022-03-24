@@ -135,4 +135,12 @@ schemas:
             
 
       
-            
+
+      datumEersteInschrijving:
+        dag: 02
+        datum: "2013-11-02T00:00:00.000Z"
+        jaar: 2013
+        maand: 11
+      kiesrecht:
+        europeesKiesrecht: true
+        uitgeslotenVanKiesrecht: false
