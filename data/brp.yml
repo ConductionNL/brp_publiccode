@@ -50,7 +50,7 @@ schemas:
               jaar: 1955
               maand: 4
             land:
-              code: 5002
+              code: "5002"
             plaats:
               omschrijving: Toulon 
           datumIngangFamilierechtelijkeBetrekking:
@@ -107,9 +107,9 @@ schemas:
           jaar: 2013
           maand: 11
         land: 
-          code: 5002
+          code: "5002"
         gemeenteVanInschrijving:
-          code: 0599
+          code: "0599"
         datumInschrijvingInGemeente:
           dag: 2
           datum: "2013-11-02"
