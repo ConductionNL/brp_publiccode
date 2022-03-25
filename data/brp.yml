@@ -100,7 +100,7 @@ schemas:
         postcode: 3077AW
         woonplaats: Rotterdam
         functieAdres: woonadres
-        nummeraanduidingIdentificatie: 0599010000208579
+        nummeraanduidingIdentificatie: "0599010000208579"
         datumVestigingInNederland:
           dag: 2
           datum: "2013-11-02"
