@@ -107,7 +107,7 @@ schemas:
           jaar: 2013
           maand: 11
         land: 
-          code: "5002"
+          code: 5002
         gemeenteVanInschrijving:
           code: "0599"
         datumInschrijvingInGemeente:
@@ -130,12 +130,12 @@ schemas:
       aNummer: "8940402024"
       geheimhoudingPersoonsgegevens: false
       leeftijd: 36
-      geslachtsaanduiding: V
+      geslachtsaanduiding: vrouw
       naam:
         geslachtsnaam: Zywiatowska
         voorletters: R
         voornamen: Roza
-        aanduidingNaamgebruik: E
+        aanduidingNaamgebruik: eigen
       geboorte:
         datum:
           dag: 12
@@ -143,7 +143,7 @@ schemas:
           jaar: 1989
           maand: 5
       ouders: 
-        - geslachtsaanduiding: V
+        - geslachtsaanduiding: vrouw
           naam: 
             voornamen: Lisette
             geslachtsnaam: Beamont
@@ -154,7 +154,7 @@ schemas:
               jaar: 1956
               maand: 5
             land:
-              code: 5002
+              code: "5002"
             plaats:
               omschrijving: Clermont-Ferrand 
           datumIngangFamilierechtelijkeBetrekking:
@@ -163,7 +163,7 @@ schemas:
             jaar: 1989
             maand: 5 
 
-        - geslachtsaanduiding: M
+        - geslachtsaanduiding: man
           naam: 
             voornamen: Guillaume
             geslachtsnaam: Moulin
@@ -174,7 +174,7 @@ schemas:
               jaar: 1955
               maand: 4
             land:
-              code: 5002
+              code: "5002"
             plaats:
               omschrijving: Toulon 
           datumIngangFamilierechtelijkeBetrekking:
@@ -189,16 +189,16 @@ schemas:
             jaar: 2013
             maand: 11
           nationaliteit:
-            code: 6030
+            code: "6030"
           redenOpname:
-            code: 301
+            code: "301"
       verblijfplaats:    
         straat: Fictiefstraat
         huisnummer: 33
         postcode: 3039ME
         woonplaats: Demodam
-        functieAdres: W
-        nummeraanduidingIdentificatie: 0599010000208579
+        functieAdres: woonadres
+        nummeraanduidingIdentificatie: "0599010000208579"
         datumVestigingInNederland:
           dag: 2
           datum: "2013-11-02"
@@ -207,7 +207,7 @@ schemas:
         land: 
           code: 5002
         gemeenteVanInschrijving:
-          code: 0599
+          code: "0599"
         datumInschrijvingInGemeente:
           dag: 2
           datum: "2013-11-02"
@@ -228,12 +228,12 @@ schemas:
       aNummer: "8940402024"
       geheimhoudingPersoonsgegevens: false
       leeftijd: 36
-      geslachtsaanduiding: V
+      geslachtsaanduiding: vrouw
       naam:
         geslachtsnaam: van der Meijden
         voorletters: PJ
         voornamen: Peter-Jan
-        aanduidingNaamgebruik: E
+        aanduidingNaamgebruik: eigen
       geboorte:
         datum:
           dag: 12
@@ -241,7 +241,7 @@ schemas:
           jaar: 1989
           maand: 5
       ouders: 
-        - geslachtsaanduiding: V
+        - geslachtsaanduiding: vrouw
           naam: 
             voornamen: Lisette
             geslachtsnaam: Beamont
@@ -252,7 +252,7 @@ schemas:
               jaar: 1956
               maand: 5
             land:
-              code: 5002
+              code: "5002"
             plaats:
               omschrijving: Clermont-Ferrand 
           datumIngangFamilierechtelijkeBetrekking:
@@ -261,7 +261,7 @@ schemas:
             jaar: 1989
             maand: 5 
 
-        - geslachtsaanduiding: M
+        - geslachtsaanduiding: man
           naam: 
             voornamen: Guillaume
             geslachtsnaam: Moulin
@@ -272,7 +272,7 @@ schemas:
               jaar: 1955
               maand: 4
             land:
-              code: 5002
+              code: "5002"
             plaats:
               omschrijving: Toulon 
           datumIngangFamilierechtelijkeBetrekking:
@@ -287,16 +287,16 @@ schemas:
             jaar: 2013
             maand: 11
           nationaliteit:
-            code: 6030
+            code: "6030"
           redenOpname:
-            code: 301
+            code: "301"
       verblijfplaats:    
         straat: Fictiefstraat
         huisnummer: 72
         postcode: 3011KD
         woonplaats: Demodam
-        functieAdres: W
-        nummeraanduidingIdentificatie: 0599010000208579
+        functieAdres: woonadres
+        nummeraanduidingIdentificatie: "0599010000208579"
         datumVestigingInNederland:
           dag: 2
           datum: "2013-11-02"
@@ -305,7 +305,7 @@ schemas:
         land: 
           code: 5002
         gemeenteVanInschrijving:
-          code: 0599
+          code: "0599"
         datumInschrijvingInGemeente:
           dag: 2
           datum: "2013-11-02"
