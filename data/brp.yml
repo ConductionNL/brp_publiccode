@@ -329,10 +329,10 @@ schemas:
       leeftijd: 25
       geslachtsaanduiding: man
       naam:
-        geslachtsnaam: Haas
-        voorletters: J
-        voornamen: Joske
-        voorvoegsel: de
+        geslachtsnaam: Dooper
+        voorletters: JMA
+        voornamen: Johannes Maria Alphonse
+        voorvoegsel: den
         aanduidingNaamgebruik: eigen
       geboorte:
         datum:
@@ -391,8 +391,9 @@ schemas:
           redenOpname:
             code: "301"
       verblijfplaats:    
-        straat: Rodenrijselaan
-        huisnummer: 30
+        straat: Anna van Westrienenstr
+        huisnummer: 1
+        huisletter: "A"
         postcode: 3037XT
         woonplaats: Rotterdam
         functieAdres: woonadres
