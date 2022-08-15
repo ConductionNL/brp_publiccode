@@ -14,10 +14,10 @@ schemas:
         aanduidingNaamgebruik: eigen
       geboorte:
         datum:
-          dag: 12
-          datum: "1958-12-01"
-          jaar: 1989
-          maand: 5
+          dag: 1
+          datum: "1985-12-01"
+          jaar: 1985
+          maand: 12
       ouders: 
         - geslachtsaanduiding: vrouw
           naam: 
@@ -127,21 +127,21 @@ schemas:
           maand: 8
   - properties:
       burgerservicenummer: "999990172"
-      aNummer: "8940402024"
+      aNummer: "4391026595"
       geheimhoudingPersoonsgegevens: false
-      leeftijd: 36
+      leeftijd: 56
       geslachtsaanduiding: vrouw
       naam:
-        geslachtsnaam: Zywiatowska
+        geslachtsnaam: Żywiałowska
         voorletters: R
-        voornamen: Roza
+        voornamen: Róza Mstyslava
         aanduidingNaamgebruik: eigen
       geboorte:
         datum:
-          dag: 12
-          datum: "1958-12-01"
-          jaar: 1989
-          maand: 5
+          dag: 17
+          datum: "1965-09-17"
+          jaar: 1965
+          maand: 9
       ouders: 
         - geslachtsaanduiding: vrouw
           naam: 
@@ -193,10 +193,10 @@ schemas:
           redenOpname:
             code: "301"
       verblijfplaats:    
-        straat: Fictiefstraat
+        straat: Paadje van duizend treê
         huisnummer: 33
         postcode: 3039ME
-        woonplaats: Demodam
+        woonplaats: Rotterdam
         functieAdres: woonadres
         nummeraanduidingIdentificatie: "0599010000208579"
         datumVestigingInNederland:
@@ -225,21 +225,22 @@ schemas:
           maand: 8
   - properties:
       burgerservicenummer: "999993872"
-      aNummer: "8940402024"
+      aNummer: "6940397872"
       geheimhoudingPersoonsgegevens: false
-      leeftijd: 36
-      geslachtsaanduiding: vrouw
+      leeftijd: 63
+      geslachtsaanduiding: man
       naam:
-        geslachtsnaam: van der Meijden
+        geslachtsnaam: Meijden
         voorletters: PJ
         voornamen: Peter-Jan
+        voorvoegsel: van der
         aanduidingNaamgebruik: eigen
       geboorte:
         datum:
-          dag: 12
-          datum: "1958-12-01"
-          jaar: 1989
-          maand: 5
+          dag: 17
+          datum: "1959-04-17"
+          jaar: 1959
+          maand: 4
       ouders: 
         - geslachtsaanduiding: vrouw
           naam: 
@@ -291,10 +292,10 @@ schemas:
           redenOpname:
             code: "301"
       verblijfplaats:    
-        straat: Fictiefstraat
+        straat: Goudsesingel
         huisnummer: 72
         postcode: 3011KD
-        woonplaats: Demodam
+        woonplaats: Rotterdam
         functieAdres: woonadres
         nummeraanduidingIdentificatie: "0599010000208579"
         datumVestigingInNederland:
@@ -323,14 +324,15 @@ schemas:
           maand: 8
   - properties:
       burgerservicenummer: "123456782"
-      aNummer: "8940402024"
+      aNummer: "1234567890"
       geheimhoudingPersoonsgegevens: false
       leeftijd: 25
-      geslachtsaanduiding: vrouw
+      geslachtsaanduiding: man
       naam:
-        geslachtsnaam: Doe
+        geslachtsnaam: Haas
         voorletters: J
         voornamen: Joske
+        voorvoegsel: de
         aanduidingNaamgebruik: eigen
       geboorte:
         datum:
@@ -389,10 +391,10 @@ schemas:
           redenOpname:
             code: "301"
       verblijfplaats:    
-        straat: Fictiefstraat
-        huisnummer: 50
-        postcode: 3051EG
-        woonplaats: Demodam
+        straat: Rodenrijselaan
+        huisnummer: 30
+        postcode: 3037XT
+        woonplaats: Rotterdam
         functieAdres: woonadres
         nummeraanduidingIdentificatie: "0599010000208579"
         datumVestigingInNederland:
@@ -421,12 +423,3 @@ schemas:
           maand: 8
 
         
-
-            
-
-
-          
-            
-
-      
-            
